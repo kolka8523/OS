@@ -1,0 +1,100 @@
+    1  [2020-08-19 20:09:36] whoami
+    2  [2020-08-19 20:10:20] hostname
+    3  [2020-08-19 20:10:26] whoami
+    4  [2020-08-19 20:10:49] man whoami
+    5  [2020-08-19 20:14:31] cd D:\Коля Ершов\Documents
+    6  [2020-08-19 20:16:03] cd D:\Коля Ершов\Documents\OS
+    7  [2020-08-19 20:16:17] cd:
+    8  [2020-08-19 20:16:21] cd :
+    9  [2020-08-19 20:16:40] cd : D:/
+   10  [2020-08-19 20:17:33] pwd
+   11  [2020-08-19 20:17:47] whoami
+   12  [2020-08-19 20:18:38] mkdir D:/Nick/Documents/OS
+   13  [2020-08-19 20:20:08] mkdir D:/Nick/Documents/OS/week1
+   14  [2020-08-19 20:20:58] cd ~/week1
+   15  [2020-08-19 20:22:01] cd D:/Nick/Documents/OS/week1
+   16  [2020-08-19 20:22:07] whoami
+   17  [2020-08-19 20:22:18] hostname
+   18  [2020-08-19 20:23:22] touch ex1.txt
+   19  [2020-08-19 20:26:08] pwd
+   20  [2020-08-19 20:30:05] grep gcc /usr/bin
+   21  [2020-08-19 20:30:38] cd /usr/bin
+   22  [2020-08-19 20:30:49] grep gcc /usr/bin
+   23  [2020-08-19 20:32:02] grep gcc bin
+   24  [2020-08-19 20:32:15] cd ..
+   25  [2020-08-19 20:32:23] grep gcc bin
+   26  [2020-08-19 20:32:38] grep GCC bin
+   27  [2020-08-19 20:33:13] cd /usr/bin
+   28  [2020-08-19 20:33:41] less
+   29  [2020-08-19 20:34:12] cd /usr/bin
+   30  [2020-08-19 20:34:39] grep gcc
+   31  [2020-08-19 20:33:46] head
+   32  [2020-08-19 20:35:51] ls
+   33  [2020-08-19 20:37:07] grep kill bin
+   34  [2020-08-19 20:37:12] cd ..
+   35  [2020-08-19 20:37:21] grep kill bin
+   36  [2020-08-19 20:37:33] grep "kill" bin
+   37  [2020-08-19 20:37:52] grep gcc <bin>
+   38  [2020-08-19 20:39:41] cd /usr/bin
+   39  [2020-08-19 20:40:17] ls | grep gcc
+   40  [2020-08-19 20:41:55] cd D:/Nick/Documents/OS/week1/ex1.txt
+   41  [2020-08-19 20:42:06] cd D:/Nick/Documents/OS/week1
+   42  [2020-08-19 20:43:39] ls | sort -r | grep gcc /usr/bin > ex1.txt
+   43  [2020-08-19 20:44:21] ls | sort -r | grep gcc /usr/bin
+   44  [2020-08-19 20:44:53] cd usr/bin
+   45  [2020-08-19 20:45:23] cd /usr/bin
+   46  [2020-08-19 20:45:35] ls | sort -r | grep gcc
+   47  [2020-08-19 20:45:50] cd D:/Nick/Documents/OS/week1
+   48  [2020-08-19 20:46:04] ls > ex1/txt
+   49  [2020-08-19 20:46:14] ls > ex1.txt
+   50  [2020-08-19 20:47:56] cd /Documents/OS/week1
+   51  [2020-08-19 20:48:13] cd D:/Nick/Documents/OS/week1
+   52  [2020-08-19 20:48:33] touch <ex1.txt>
+   53  [2020-08-19 20:48:42] touch ex1.txt
+   54  [2020-08-19 20:49:13] cd /usr/bin
+   55  [2020-08-19 20:49:38] ls | sort -r | grep gcc
+   56  [2020-08-19 20:52:25] cd D:/Nick/Documents/OS/week1
+   57  [2020-08-19 20:52:38] touch ex2.txt
+   58  [2020-08-19 20:52:47] whoami
+   59  [2020-08-19 20:52:51] hostname
+   60  [2020-08-19 20:53:23] hystory > ex2.txt
+   61  [2020-08-19 20:53:35] history > ex2/txt
+   62  [2020-08-19 20:53:41] history > ex2.txt
+   63  [2020-08-19 20:54:29] touch ex3.txt
+   64  [2020-08-19 20:57:42] history > ex2.txt
+   65  [2020-08-19 21:01:12] touch ex3.sh
+   66  [2020-08-19 21:05:38] sh ex3.sh
+   67  [2020-08-19 21:17:04] man sleep
+   68  [2020-08-19 21:26:29] cd D:/Коля Ершов/Documents/OS/week1
+   69  [2020-08-19 21:26:41] cd D:/Nick/Documents/OS/week1
+   70  [2020-08-19 21:27:06] gedit D:/Nick/Documents/OS/week1/main.c
+   71  [2020-08-19 21:55:32] cd D:/Nick/Documents/OS/week1/
+   72  [2020-08-19 21:55:40] gedit D:/Nick/Documents/OS/week1/main.c
+   73  [2020-08-19 21:19:45] cd D:/Nick/Documents/OS/week1
+   74  [2020-08-19 21:19:53] touch ex1.txt
+   75  [2020-08-19 21:20:00] touch ex2.txt
+   76  [2020-08-19 21:20:27] touch ex3.sh
+   77  [2020-08-19 21:21:05] gedit D:/Nick/Documents/OS/week1/main.c
+   78  [2020-08-19 21:21:29] apt-get install gedit
+   79  [2020-08-19 21:59:49] cd D:/Nick/Documents/OS
+   80  [2020-08-19 22:00:43] mkdir D:/Nick/Documents/OS/week1
+   81* [2020-08-19 22:00:57] 
+   82  [2020-08-19 22:01:26] cd /usr/bin
+   83  [2020-08-19 22:01:55] ls | sort -r | grep gcc
+   84  [2020-08-19 22:02:26] cd ~
+   85  [2020-08-19 22:02:59] ls | sort -r | grep gcc
+   86  [2020-08-19 22:03:15] cd /usr/bin
+   87* [2020-08-19 22:03:18] 
+   88* [2020-08-19 22:03:38] 
+   89  [2020-08-19 22:05:17] touch ex1.txt
+   90  [2020-08-19 22:07:43] cd /usr/bin
+   91  [2020-08-19 22:08:23] cd D:/Nick/Documents/OS/week1
+   92  [2020-08-19 22:08:34] ls > ex1.txt
+   93  [2020-08-19 22:08:47] cd /usr/bin
+   94  [2020-08-19 22:09:03] ls | sort -r | grep gcc
+   95  [2020-08-19 22:10:11] ls | sort -r | grep gcc > D:/Nick/Documents/OS/week1/ex1.txt
+   96  [2020-08-19 22:11:03] cd D:/Nick/Documents/OS/week1
+   97  [2020-08-19 22:11:14] touch ex2.txt
+   98  [2020-08-19 22:11:51] hostname
+   99  [2020-08-19 22:12:02] whoami
+  100  [2020-08-19 22:13:37] history > ex2.txt
